@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-message-api",
+  "version": "1.0.0",
+  "description": "Sample Node.js API to send a message",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
