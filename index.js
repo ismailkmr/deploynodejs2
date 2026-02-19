@@ -4,7 +4,7 @@ app.use(express.json());
 
 // Health check
 app.get('/', (req, res) => {
-  res.json({ status: 'API is running!!!! 123456' });
+  res.json({ status: 'API is running!!!! 123estrdfhhghfgjf456' });
 });
 
 // Send message API
